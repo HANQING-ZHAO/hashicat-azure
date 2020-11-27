@@ -3,4 +3,3 @@ module "network" {
   version = "3.0.1"
   # insert required variables here
 }
-
